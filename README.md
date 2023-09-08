@@ -41,7 +41,7 @@ To run the DALL-E Clone project locally, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/dall-e-clone.git
+   git clone https://github.com/Pankajjsuthar/dall-e-clone.git
    cd dall-e-clone
 
 ## Install server dependencies
